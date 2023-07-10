@@ -1,0 +1,42 @@
+.app {
+  background: #0d131a !important;
+  display: flex !important;
+}
+
+.button {
+  color: white !important;
+  margin-left: 1rem !important;
+}
+
+.button1 {
+  color: white !important;
+}
+
+.image {
+  width: 2rem;
+  height: 2rem;
+}
+
+.parent {
+  padding-left: 8rem !important;
+}
+
+.parent1 {
+  padding-right: 8rem !important;
+}
+
+.button2 {
+  color: white !important;
+  font-size: 0.8rem !important;
+  border-radius: 1rem !important;
+}
+
+.name {
+  display: flex;
+  align-items: center;
+}
+
+.image1 {
+  height: 36px;
+  width: 36px;
+}
